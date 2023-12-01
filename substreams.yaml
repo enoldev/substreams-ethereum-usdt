@@ -1,6 +1,6 @@
 specVersion: v0.1.0
 package:
-  name: usdt3
+  name: substreams_ethereum_usdt
   version: v0.1.0
 
 imports:

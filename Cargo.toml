@@ -1,5 +1,5 @@
 [package]
-name = "usdt3"
+name = "substreams_ethereum_usdt"
 version = "0.0.1"
 edition = "2021"
 

@@ -1,6 +1,6 @@
 specVersion: v0.1.0
 package:
-  name: substreams-ethereum-usdt
+  name: substreams_ethereum_usdt
   version: v0.1.0
   image: ./usdt-eth.png
   url: "https://github.com/enoldev/substreams-ethereum-usdt"

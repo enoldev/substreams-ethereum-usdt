@@ -1,12 +1,12 @@
 specVersion: 0.0.6
-description: usdt-3 substreams based subgraph
+description: substreams_ethereum_usdt substreams based subgraph
 repository: # fill in with git remote url
 schema:
   file: ./schema.graphql
 
 dataSources:
   - kind: substreams
-    name: usdt-3
+    name: substreams_ethereum_usdt
     network: mainnet
     source:
       package:

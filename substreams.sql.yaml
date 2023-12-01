@@ -2,6 +2,8 @@ specVersion: v0.1.0
 package:
   name: usdt3
   version: v0.1.0
+  image: ./usdt-eth.png
+  url: "https://github.com/enoldev/substreams-ethereum-usdt"
 
 imports:
   sql: https://github.com/streamingfast/substreams-sink-sql/releases/download/protodefs-v1.0.7/substreams-sink-sql-protodefs-v1.0.7.spkg
